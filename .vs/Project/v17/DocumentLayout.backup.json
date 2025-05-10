@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|solutionrelative:project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project.api\\project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|solutionrelative:project.api\\project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project.api\\controlers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|solutionrelative:project.api\\controlers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\states\\codereviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\states\\codereviewstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\interface\\itaskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\interface\\itaskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\states\\todostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\states\\todostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\states\\qastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\states\\qastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\states\\progressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\states\\progressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\states\\donestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\states\\donestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\consolenotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\consolenotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\taskduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\taskduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\models\\taskbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\models\\taskbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project.api\\project.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|solutionrelative:project.api\\project.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project.api\\models\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|solutionrelative:project.api\\models\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project.api\\models\\consolenotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0C77B5-8902-4CD2-9536-8181F7BB1D2A}|Project.API\\Project.API.csproj|solutionrelative:project.api\\models\\consolenotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\TasksManager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\interface\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\interface\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\interface\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\interface\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\interface\\itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\interface\\itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\enum\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|c:\\users\\user\\documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200Fproject - \u05E2\u05D5\u05EA\u05E7\\project\\enum\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A437756-8423-4514-A35D-48A0ADA70111}|Project\\Project.csproj|solutionrelative:project\\enum\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\a2d99773cdb23f545856df5ca28bb28df7306304aa35eb26662c7271c7d362a6\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\6f7ae17857e7774aab6e38ceaf781714f46c7a962c94bd884a0903038e8e8b92\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\controllers\\TaskController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Program.cs",
+              "RelativeDocumentMoniker": "Project.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Program.cs",
+              "RelativeToolTip": "Project.API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:33:33.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\Task.cs",
+              "RelativeToolTip": "Project\\Models\\Task.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAUwOQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:49:51.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\ITaskState.cs",
+              "RelativeDocumentMoniker": "Project\\Interface\\ITaskState.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\ITaskState.cs",
+              "RelativeToolTip": "Project\\Interface\\ITaskState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:48:09.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeReviewState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\CodeReviewState.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\States\\CodeReviewState.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\CodeReviewState.cs",
+              "RelativeToolTip": "Project\\Models\\States\\CodeReviewState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:44:04.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.API.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Project.API.csproj",
+              "RelativeDocumentMoniker": "Project.API\\Project.API.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Project.API.csproj",
+              "RelativeToolTip": "Project.API\\Project.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T17:33:56.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\controlers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Project.API\\controlers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\controlers\\TaskController.cs",
+              "RelativeToolTip": "Project.API\\controlers\\TaskController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:34:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:34:02.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\ToDoState.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\States\\ToDoState.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\ToDoState.cs",
+              "RelativeToolTip": "Project\\Models\\States\\ToDoState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:54:05.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QAState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\QAState.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\States\\QAState.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\QAState.cs",
+              "RelativeToolTip": "Project\\Models\\States\\QAState.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:45:41.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgressState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\ProgressState.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\States\\ProgressState.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\ProgressState.cs",
+              "RelativeToolTip": "Project\\Models\\States\\ProgressState.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:14:24.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoneState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\DoneState.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\States\\DoneState.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\States\\DoneState.cs",
+              "RelativeToolTip": "Project\\Models\\States\\DoneState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:46:38.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleNotify.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\ConsoleNotify.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\ConsoleNotify.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\ConsoleNotify.cs",
+              "RelativeToolTip": "Project\\Models\\ConsoleNotify.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:24:43.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskDuplicate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\TaskDuplicate.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\TaskDuplicate.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\TaskDuplicate.cs",
+              "RelativeToolTip": "Project\\Models\\TaskDuplicate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:11:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\User.cs",
+              "RelativeToolTip": "Project\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:43:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\TaskBuilder.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\TaskBuilder.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Models\\TaskBuilder.cs",
+              "RelativeToolTip": "Project\\Models\\TaskBuilder.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:10:22.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Project.API.http",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Project.API.http",
+              "RelativeDocumentMoniker": "Project.API\\Project.API.http",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Project.API.http",
+              "RelativeToolTip": "Project.API\\Project.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-25T09:11:13.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Models\\TaskCreateDto.cs",
+              "RelativeDocumentMoniker": "Project.API\\Models\\TaskCreateDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Models\\TaskCreateDto.cs",
+              "RelativeToolTip": "Project.API\\Models\\TaskCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:35:16.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsoleNotify.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Models\\ConsoleNotify.cs",
+              "RelativeDocumentMoniker": "Project.API\\Models\\ConsoleNotify.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project.API\\Models\\ConsoleNotify.cs",
+              "RelativeToolTip": "Project.API\\Models\\ConsoleNotify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:47:03.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Project.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Project.csproj",
+              "RelativeDocumentMoniker": "Project\\Project.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Project.csproj",
+              "RelativeToolTip": "Project\\Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T13:42:38.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "INotify.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\INotify.cs",
+              "RelativeDocumentMoniker": "Project\\Interface\\INotify.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\INotify.cs",
+              "RelativeToolTip": "Project\\Interface\\INotify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:17:52.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\Program.cs",
+              "RelativeToolTip": "..\\..\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:16:03.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TasksManager.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\TasksManager.csproj",
+              "RelativeDocumentMoniker": "..\\..\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\TasksManager.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\TasksManager.csproj",
+              "RelativeToolTip": "..\\..\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\TasksManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T17:17:08.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\controllers\\TaskController.cs",
+              "RelativeToolTip": "..\\..\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\TasksManager\\controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:17:58.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITask.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\ITask.cs",
+              "RelativeDocumentMoniker": "Project\\Interface\\ITask.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\ITask.cs",
+              "RelativeToolTip": "Project\\Interface\\ITask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:32:45.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "Project\\Interface\\ISubscriber.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Interface\\ISubscriber.cs",
+              "RelativeToolTip": "Project\\Interface\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:10:55.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Enum\\Priority.cs",
+              "RelativeDocumentMoniker": "Project\\Enum\\Priority.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Enum\\Priority.cs",
+              "RelativeToolTip": "Project\\Enum\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:51:10.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Enum\\Role.cs",
+              "RelativeDocumentMoniker": "Project\\Enum\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u05DE\u05E1\u05DC\u05D5\u05DC\\server\\design project\\\u200F\u200FProject - \u05E2\u05D5\u05EA\u05E7\\Project\\Enum\\Role.cs",
+              "RelativeToolTip": "Project\\Enum\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:59:11.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\a2d99773cdb23f545856df5ca28bb28df7306304aa35eb26662c7271c7d362a6\\Task.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\a2d99773cdb23f545856df5ca28bb28df7306304aa35eb26662c7271c7d362a6\\Task.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\a2d99773cdb23f545856df5ca28bb28df7306304aa35eb26662c7271c7d362a6\\Task.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\a2d99773cdb23f545856df5ca28bb28df7306304aa35eb26662c7271c7d362a6\\Task.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAWwNAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:38:15.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\6f7ae17857e7774aab6e38ceaf781714f46c7a962c94bd884a0903038e8e8b92\\Task.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\6f7ae17857e7774aab6e38ceaf781714f46c7a962c94bd884a0903038e8e8b92\\Task.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\6f7ae17857e7774aab6e38ceaf781714f46c7a962c94bd884a0903038e8e8b92\\Task.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\\u05D4\u05D9\u05E8\u05E9\u05DE\u05DF \u05E8\u05D7\u05DC \u05DC\u05D0\u05D4\\AppData\\Local\\Temp\\.vsdbgsrc\\6f7ae17857e7774aab6e38ceaf781714f46c7a962c94bd884a0903038e8e8b92\\Task.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAYwNEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:08:04.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

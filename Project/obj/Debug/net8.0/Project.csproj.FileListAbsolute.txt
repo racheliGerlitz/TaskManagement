@@ -1,0 +1,56 @@
+H:\server\Project\Project\bin\Debug\net8.0\Project.exe
+H:\server\Project\Project\bin\Debug\net8.0\Project.deps.json
+H:\server\Project\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+H:\server\Project\Project\bin\Debug\net8.0\Project.dll
+H:\server\Project\Project\bin\Debug\net8.0\Project.pdb
+H:\server\Project\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\Project\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+H:\server\Project\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+H:\server\Project\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+H:\server\Project\Project\obj\Debug\net8.0\Project.dll
+H:\server\Project\Project\obj\Debug\net8.0\refint\Project.dll
+H:\server\Project\Project\obj\Debug\net8.0\Project.pdb
+H:\server\Project\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+H:\server\Project\Project\obj\Debug\net8.0\ref\Project.dll
+C:\Users\user\Documents\מסלול\server\Project\Project\bin\Debug\net8.0\Project.exe
+C:\Users\user\Documents\מסלול\server\Project\Project\bin\Debug\net8.0\Project.deps.json
+C:\Users\user\Documents\מסלול\server\Project\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+C:\Users\user\Documents\מסלול\server\Project\Project\bin\Debug\net8.0\Project.dll
+C:\Users\user\Documents\מסלול\server\Project\Project\bin\Debug\net8.0\Project.pdb
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\Project.dll
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\refint\Project.dll
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\Project.pdb
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+C:\Users\user\Documents\מסלול\server\Project\Project\obj\Debug\net8.0\ref\Project.dll
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.exe
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.deps.json
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.dll
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.pdb
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.dll
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\refint\Project.dll
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.pdb
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+C:\Users\user\Documents\מסלול\server\‏‏Project - עותק\Project\obj\Debug\net8.0\ref\Project.dll
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.exe
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.deps.json
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.dll
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\bin\Debug\net8.0\Project.pdb
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.dll
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\refint\Project.dll
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.pdb
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+C:\Users\user\Documents\מסלול\server\design project\‏‏Project - עותק\Project\obj\Debug\net8.0\ref\Project.dll
